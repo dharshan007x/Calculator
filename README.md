@@ -1,9 +1,9 @@
-##🧮 *Calculator (Java Swing)*
+#🧮 *Calculator (Java Swing)*
 A simple yet enhanced GUI Calculator built using Java Swing, capable of performing basic arithmetic operations such as addition, subtraction, multiplication, and division.  It includes modern usability features like Clear, Backspace, and keyboard input support for smooth calculations.
 
 ---
 
-##🚀 *Features*
+#🚀 *Features*
 ➕ Addition, *➖ Subtraction, *✖️ Multiplication, *➗ Division  
 
 🧹 Clear (C) button to reset the display
@@ -18,13 +18,13 @@ A simple yet enhanced GUI Calculator built using Java Swing, capable of performi
 
 ---
 
-##🛠️ *Tech Stack*  
+#🛠️ *Tech Stack*  
 Language: Java  
 Framework: Swing (Java GUI)
 
 ---
 
-##📦 *How to Run*  
+#📦 *How to Run*  
 (Clone the repository:  
 bash  
 Copy code  
@@ -40,7 +40,7 @@ java Calculator
 
 ---
 
-## *Authors*  
+# *Authors*  
 *Dharshan B* https://gitbub.com/dharshan007x/
 
 
